@@ -1,0 +1,8 @@
+[
+{
+  "directory": "E:/Codefield/CODE_CPP/vscode/raytracing/ray_tracing_in_one_weekend/build",
+  "command": "D:/Applications/mingw64/bin/g++.exe  @CMakeFiles/main.dir/includes_CXX.rsp -g -o CMakeFiles/main.dir/src/main.cpp.obj -c E:/Codefield/CODE_CPP/vscode/raytracing/ray_tracing_in_one_weekend/src/main.cpp",
+  "file": "E:/Codefield/CODE_CPP/vscode/raytracing/ray_tracing_in_one_weekend/src/main.cpp",
+  "output": "CMakeFiles/main.dir/src/main.cpp.obj"
+}
+]
