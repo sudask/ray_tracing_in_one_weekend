@@ -16,4 +16,4 @@ class hitable {
 };
 
 
-#endif HITABLEH
+#endif

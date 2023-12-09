@@ -4,11 +4,12 @@
 #include "hitable.h"
 
 class hitable_list: public hitable {
-    hitable_list() {}
-    hitable_list(hitable **l, int n) { list = l; list_size = n; }
-    virtual bool hit(const ray& r, float tmin, float tmax, hit_record& rec) const {};
-    hitable **list;
-    int list_size;
+    public:
+        hitable_list() {}
+        hitable_list(hitable **l, int n) { list = l; list_size = n; }
+        virtual bool hit(const ray& r, float tmin, float tmax, hit_record& rec) const;
+        hitable **list;
+        int list_size;
 };
 
 bool hitable_list::hit(const ray& r, float tmin, float tmax, hit_record& rec) const {
@@ -25,4 +26,4 @@ bool hitable_list::hit(const ray& r, float tmin, float tmax, hit_record& rec) co
     return hit_anything;
 }
 
-#endif HITABLELISTH
+#endif
