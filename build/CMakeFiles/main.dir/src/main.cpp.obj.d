@@ -126,6 +126,27 @@ CMakeFiles/main.dir/src/main.cpp.obj: \
  D:/Applications/mingw64/lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/bits/ostream.tcc \
  D:/Applications/mingw64/lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/istream \
  D:/Applications/mingw64/lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/bits/istream.tcc \
+ D:/Applications/mingw64/lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/random \
+ D:/Applications/mingw64/lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/cmath \
+ D:/Applications/mingw64/x86_64-w64-mingw32/include/math.h \
+ D:/Applications/mingw64/lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/limits \
+ D:/Applications/mingw64/lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/bits/random.h \
+ D:/Applications/mingw64/lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/vector \
+ D:/Applications/mingw64/lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/bits/stl_construct.h \
+ D:/Applications/mingw64/lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/bits/stl_uninitialized.h \
+ D:/Applications/mingw64/lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/bits/stl_vector.h \
+ D:/Applications/mingw64/lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/bits/stl_bvector.h \
+ D:/Applications/mingw64/lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/bits/vector.tcc \
+ D:/Applications/mingw64/lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/bits/uniform_int_dist.h \
+ D:/Applications/mingw64/lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/x86_64-w64-mingw32/bits/opt_random.h \
+ D:/Applications/mingw64/lib/gcc/x86_64-w64-mingw32/8.1.0/include/pmmintrin.h \
+ D:/Applications/mingw64/lib/gcc/x86_64-w64-mingw32/8.1.0/include/emmintrin.h \
+ D:/Applications/mingw64/lib/gcc/x86_64-w64-mingw32/8.1.0/include/xmmintrin.h \
+ D:/Applications/mingw64/lib/gcc/x86_64-w64-mingw32/8.1.0/include/mmintrin.h \
+ D:/Applications/mingw64/lib/gcc/x86_64-w64-mingw32/8.1.0/include/mm_malloc.h \
+ D:/Applications/mingw64/lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/bits/random.tcc \
+ D:/Applications/mingw64/lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/numeric \
+ D:/Applications/mingw64/lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/bits/stl_numeric.h \
  D:/Applications/mingw64/lib/gcc/x86_64-w64-mingw32/8.1.0/include/float.h \
  D:/Applications/mingw64/x86_64-w64-mingw32/include/float.h \
  E:/Codefield/CODE_CPP/vscode/raytracing/ray_tracing_in_one_weekend/include/sphere.h \
@@ -133,6 +154,5 @@ CMakeFiles/main.dir/src/main.cpp.obj: \
  E:/Codefield/CODE_CPP/vscode/raytracing/ray_tracing_in_one_weekend/include/ray.h \
  E:/Codefield/CODE_CPP/vscode/raytracing/ray_tracing_in_one_weekend/include/vec3.h \
  D:/Applications/mingw64/lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/math.h \
- D:/Applications/mingw64/lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/cmath \
- D:/Applications/mingw64/x86_64-w64-mingw32/include/math.h \
- E:/Codefield/CODE_CPP/vscode/raytracing/ray_tracing_in_one_weekend/include/hitablelist.h
+ E:/Codefield/CODE_CPP/vscode/raytracing/ray_tracing_in_one_weekend/include/hitablelist.h \
+ E:/Codefield/CODE_CPP/vscode/raytracing/ray_tracing_in_one_weekend/include/camera.h
