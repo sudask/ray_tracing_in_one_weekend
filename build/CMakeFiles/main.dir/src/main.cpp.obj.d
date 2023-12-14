@@ -154,5 +154,7 @@ CMakeFiles/main.dir/src/main.cpp.obj: \
  E:/Codefield/CODE_CPP/vscode/raytracing/ray_tracing_in_one_weekend/include/ray.h \
  E:/Codefield/CODE_CPP/vscode/raytracing/ray_tracing_in_one_weekend/include/vec3.h \
  D:/Applications/mingw64/lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/math.h \
- E:/Codefield/CODE_CPP/vscode/raytracing/ray_tracing_in_one_weekend/include/hitablelist.h \
- E:/Codefield/CODE_CPP/vscode/raytracing/ray_tracing_in_one_weekend/include/camera.h
+ E:/Codefield/CODE_CPP/vscode/raytracing/ray_tracing_in_one_weekend/include/global.h \
+ E:/Codefield/CODE_CPP/vscode/raytracing/ray_tracing_in_one_weekend/include/camera.h \
+ E:/Codefield/CODE_CPP/vscode/raytracing/ray_tracing_in_one_weekend/include/material.h \
+ E:/Codefield/CODE_CPP/vscode/raytracing/ray_tracing_in_one_weekend/include/hitablelist.h

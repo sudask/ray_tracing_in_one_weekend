@@ -153,8 +153,10 @@ CMakeFiles/main.dir/src/main.cpp.obj: E:/Codefield/CODE_CPP/vscode/raytracing/ra
   D:/Applications/mingw64/x86_64-w64-mingw32/include/wchar.h \
   D:/Applications/mingw64/x86_64-w64-mingw32/include/wctype.h \
   E:/Codefield/CODE_CPP/vscode/raytracing/ray_tracing_in_one_weekend/include/camera.h \
+  E:/Codefield/CODE_CPP/vscode/raytracing/ray_tracing_in_one_weekend/include/global.h \
   E:/Codefield/CODE_CPP/vscode/raytracing/ray_tracing_in_one_weekend/include/hitable.h \
   E:/Codefield/CODE_CPP/vscode/raytracing/ray_tracing_in_one_weekend/include/hitablelist.h \
+  E:/Codefield/CODE_CPP/vscode/raytracing/ray_tracing_in_one_weekend/include/material.h \
   E:/Codefield/CODE_CPP/vscode/raytracing/ray_tracing_in_one_weekend/include/ray.h \
   E:/Codefield/CODE_CPP/vscode/raytracing/ray_tracing_in_one_weekend/include/sphere.h \
   E:/Codefield/CODE_CPP/vscode/raytracing/ray_tracing_in_one_weekend/include/vec3.h
@@ -215,6 +217,8 @@ D:/Applications/mingw64/lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/bits/stl_it
 D:/Applications/mingw64/x86_64-w64-mingw32/include/sec_api/stdlib_s.h:
 
 D:/Applications/mingw64/lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/bits/cpp_type_traits.h:
+
+E:/Codefield/CODE_CPP/vscode/raytracing/ray_tracing_in_one_weekend/include/material.h:
 
 D:/Applications/mingw64/lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/bits/stl_construct.h:
 
@@ -467,6 +471,8 @@ D:/Applications/mingw64/x86_64-w64-mingw32/include/vadefs.h:
 D:/Applications/mingw64/x86_64-w64-mingw32/include/wchar.h:
 
 E:/Codefield/CODE_CPP/vscode/raytracing/ray_tracing_in_one_weekend/include/camera.h:
+
+E:/Codefield/CODE_CPP/vscode/raytracing/ray_tracing_in_one_weekend/include/global.h:
 
 E:/Codefield/CODE_CPP/vscode/raytracing/ray_tracing_in_one_weekend/include/hitable.h:
 

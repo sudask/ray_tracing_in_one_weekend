@@ -1,6 +1,7 @@
 #include<math.h>
 #include<stdlib.h>
 #include<iostream>
+#include "global.h"
 
 class vec3 {
 public:
@@ -104,4 +105,15 @@ inline vec3& vec3::operator/=(const float t) {
 }
 inline vec3 unit_vector(vec3 v) {
     return v / v.length();
+}
+
+inline vec3 reflect(const vec3& v, const vec3& n) {
+    return v - 2*dot(v,n)*n;
+}
+inline vec3 random_in_unit_sphere() {
+    vec3 p;
+    do {
+        p = 2*vec3(get_random_float(), get_random_float(), get_random_float()) - vec3(1.0, 1.0, 1.0);
+    } while (p.squared_length() >= 1.0);
+    return p;
 }
