@@ -1,10 +1,10 @@
 file(REMOVE_RECURSE
   "CMakeFiles/main.dir/src/main.cpp.obj"
   "CMakeFiles/main.dir/src/main.cpp.obj.d"
+  "E:/Codefield/CODE_CPP/vscode/raytracing/ray_tracing_in_one_weekend/bin/main.exe"
+  "E:/Codefield/CODE_CPP/vscode/raytracing/ray_tracing_in_one_weekend/bin/main.exe.manifest"
+  "E:/Codefield/CODE_CPP/vscode/raytracing/ray_tracing_in_one_weekend/bin/main.pdb"
   "libmain.dll.a"
-  "main.exe"
-  "main.exe.manifest"
-  "main.pdb"
 )
 
 # Per-language clean rules from dependency scanning.
