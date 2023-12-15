@@ -4,6 +4,7 @@
 
 using std::pow;
 
+
 inline float get_random_float() {
     static std::random_device rd;
     static std::mt19937 gen(rd());
