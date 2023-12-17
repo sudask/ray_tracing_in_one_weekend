@@ -118,6 +118,14 @@ inline vec3 random_in_unit_sphere() {
     return p;
 }
 
+inline vec3 random_in_unit_disk() {
+    vec3 p;
+    do {
+        p = 2 * vec3(get_random_float(), get_random_float(), 0) - vec3(1.0, 1.0, 0.0);
+    } while (dot(p, p) >= 1.0);
+    return p;
+}
+
 bool refract(const vec3& v, const vec3& n, float ni_over_nt, vec3& refracted) {
     vec3 uv = unit_vector(v);
     float dt = dot(uv, n);

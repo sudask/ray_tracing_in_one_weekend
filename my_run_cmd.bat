@@ -1,6 +1,6 @@
 @echo off
 cd build
-cmake ..
+
 make
 ..\bin\main.exe > ..\image\%1
 
